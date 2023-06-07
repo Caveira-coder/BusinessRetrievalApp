@@ -1,5 +1,7 @@
 # BusinessRetrievalApp
 Android Business Retrieval App
+<img src="https://github.com/Caveira-coder/BusinessRetrievalApp/assets/78458078/d6f02798-0dc2-48c9-a8b7-7829b2d0b1bd" width="500">
+
 ![1831686163698_ pic](https://github.com/Caveira-coder/BusinessRetrievalApp/assets/78458078/d6f02798-0dc2-48c9-a8b7-7829b2d0b1bd)
 ![1841686163988_ pic](https://github.com/Caveira-coder/BusinessRetrievalApp/assets/78458078/61301d75-ce75-4e5c-b1d1-ddbf9d730771)
 ![1851686164010_ pic](https://github.com/Caveira-coder/BusinessRetrievalApp/assets/78458078/c7905cf3-ff4f-4703-a9c8-360c37b33ca2)
